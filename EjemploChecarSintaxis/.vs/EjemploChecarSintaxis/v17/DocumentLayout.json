@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Estructura de datos\\EjemploChecarSintaxis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{430EF7BB-1524-4083-8070-BBA5D6EA7AF2}|EjemploChecarSintaxis.csproj|e:\\estructura de datos\\ejemplochecarsintaxis\\clasepila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{430EF7BB-1524-4083-8070-BBA5D6EA7AF2}|EjemploChecarSintaxis.csproj|solutionrelative:clasepila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{430EF7BB-1524-4083-8070-BBA5D6EA7AF2}|EjemploChecarSintaxis.csproj|e:\\estructura de datos\\ejemplochecarsintaxis\\clasenodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{430EF7BB-1524-4083-8070-BBA5D6EA7AF2}|EjemploChecarSintaxis.csproj|solutionrelative:clasenodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{430EF7BB-1524-4083-8070-BBA5D6EA7AF2}|EjemploChecarSintaxis.csproj|e:\\estructura de datos\\ejemplochecarsintaxis\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{430EF7BB-1524-4083-8070-BBA5D6EA7AF2}|EjemploChecarSintaxis.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{430EF7BB-1524-4083-8070-BBA5D6EA7AF2}|EjemploChecarSintaxis.csproj|E:\\Estructura de datos\\EjemploChecarSintaxis\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{430EF7BB-1524-4083-8070-BBA5D6EA7AF2}|EjemploChecarSintaxis.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\Estructura de datos\\EjemploChecarSintaxis\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\Estructura de datos\\EjemploChecarSintaxis\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T00:53:26.622Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\Estructura de datos\\EjemploChecarSintaxis\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\Estructura de datos\\EjemploChecarSintaxis\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T00:58:23.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClasePila.cs",
+              "DocumentMoniker": "E:\\Estructura de datos\\EjemploChecarSintaxis\\ClasePila.cs",
+              "RelativeDocumentMoniker": "ClasePila.cs",
+              "ToolTip": "E:\\Estructura de datos\\EjemploChecarSintaxis\\ClasePila.cs",
+              "RelativeToolTip": "ClasePila.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T20:28:32.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClaseNodo.cs",
+              "DocumentMoniker": "E:\\Estructura de datos\\EjemploChecarSintaxis\\ClaseNodo.cs",
+              "RelativeDocumentMoniker": "ClaseNodo.cs",
+              "ToolTip": "E:\\Estructura de datos\\EjemploChecarSintaxis\\ClaseNodo.cs",
+              "RelativeToolTip": "ClaseNodo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T20:29:31.068Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

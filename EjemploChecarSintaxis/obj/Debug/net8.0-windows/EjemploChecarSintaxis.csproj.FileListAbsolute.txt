@@ -1,0 +1,16 @@
+E:\Estructura de datos\EjemploChecarSintaxis\bin\Debug\net8.0-windows\EjemploChecarSintaxis.exe
+E:\Estructura de datos\EjemploChecarSintaxis\bin\Debug\net8.0-windows\EjemploChecarSintaxis.deps.json
+E:\Estructura de datos\EjemploChecarSintaxis\bin\Debug\net8.0-windows\EjemploChecarSintaxis.runtimeconfig.json
+E:\Estructura de datos\EjemploChecarSintaxis\bin\Debug\net8.0-windows\EjemploChecarSintaxis.dll
+E:\Estructura de datos\EjemploChecarSintaxis\bin\Debug\net8.0-windows\EjemploChecarSintaxis.pdb
+E:\Estructura de datos\EjemploChecarSintaxis\obj\Debug\net8.0-windows\EjemploChecarSintaxis.Form1.resources
+E:\Estructura de datos\EjemploChecarSintaxis\obj\Debug\net8.0-windows\EjemploChecarSintaxis.csproj.GenerateResource.cache
+E:\Estructura de datos\EjemploChecarSintaxis\obj\Debug\net8.0-windows\EjemploChecarSintaxis.GeneratedMSBuildEditorConfig.editorconfig
+E:\Estructura de datos\EjemploChecarSintaxis\obj\Debug\net8.0-windows\EjemploChecarSintaxis.AssemblyInfoInputs.cache
+E:\Estructura de datos\EjemploChecarSintaxis\obj\Debug\net8.0-windows\EjemploChecarSintaxis.AssemblyInfo.cs
+E:\Estructura de datos\EjemploChecarSintaxis\obj\Debug\net8.0-windows\EjemploChecarSintaxis.csproj.CoreCompileInputs.cache
+E:\Estructura de datos\EjemploChecarSintaxis\obj\Debug\net8.0-windows\EjemploChecarSintaxis.dll
+E:\Estructura de datos\EjemploChecarSintaxis\obj\Debug\net8.0-windows\refint\EjemploChecarSintaxis.dll
+E:\Estructura de datos\EjemploChecarSintaxis\obj\Debug\net8.0-windows\EjemploChecarSintaxis.pdb
+E:\Estructura de datos\EjemploChecarSintaxis\obj\Debug\net8.0-windows\EjemploChecarSintaxis.genruntimeconfig.cache
+E:\Estructura de datos\EjemploChecarSintaxis\obj\Debug\net8.0-windows\ref\EjemploChecarSintaxis.dll
